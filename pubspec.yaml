@@ -32,7 +32,7 @@ dependencies:
     sdk: flutter
   wifi_assistant_client_flutter:
     hosted: https://onepub.dev/api/nfguuhnofl
-    version: 0.0.22
+    version: 0.0.26
   # wifi_iot: ^0.3.19+2
 
 
