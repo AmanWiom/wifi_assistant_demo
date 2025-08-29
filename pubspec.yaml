@@ -32,7 +32,8 @@ dependencies:
     sdk: flutter
   wifi_assistant_client_flutter:
     hosted: https://onepub.dev/api/nfguuhnofl
-    version: 0.0.26
+    version: 0.0.32
+  webview_flutter: ^4.7.0
   # wifi_iot: ^0.3.19+2
 
 
