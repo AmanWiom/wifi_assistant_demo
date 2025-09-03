@@ -308,10 +308,10 @@ packages:
     dependency: "direct main"
     description:
       name: wifi_assistant_client_flutter
-      sha256: "54e42f12c776de12ab50bd050fc444b0c0eb9bd5f1bfaf2fe3ed108e28c89143"
+      sha256: "345b1bcfa75b4125c7ae9c120a9368ad55eefdfef5f2f7a935bc0dec460769c3"
       url: "https://onepub.dev/api/nfguuhnofl/"
     source: hosted
-    version: "0.0.33"
+    version: "0.0.34"
 sdks:
   dart: ">=3.4.1 <4.0.0"
   flutter: ">=3.22.0"
